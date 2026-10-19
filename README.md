@@ -5,6 +5,18 @@
 
 ---
 
+## 00 / 个人网站
+
+**曲家缘 · QJY OS** — 我的项目、公众号文章与 AI 产品实践。
+
+<a href="https://quj7897-tech.github.io/">
+  <img src="https://raw.githubusercontent.com/quj7897-tech/quj7897-tech.github.io/main/portfolio-preview.png" alt="曲家缘的个人网站 QJY OS，点击访问" width="100%" />
+</a>
+
+### [进入我的个人网站 ↗](https://quj7897-tech.github.io/)
+
+---
+
 ## 01 / 公众号作品
 
 **微信公众号「曲总今天闭环了吗」**
