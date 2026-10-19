@@ -5,20 +5,46 @@
 
 ---
 
-## 公众号作品
+## 01 / 公众号作品
 
-微信公众号「曲总今天闭环了吗」
+**微信公众号「曲总今天闭环了吗」**
 
-| 作品 | 阅读 |
-| :--- | :--- |
-| 作品 01 | [阅读原文](https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q) |
-| 作品 02 | [阅读原文](https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw) |
-| 作品 03 | [阅读原文](https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw) |
-| 作品 04 | [阅读原文](https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw) |
-| 作品 05 | [阅读原文](https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q) |
-| 作品 06 | [阅读原文](https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="900" align="left">公众号作品</th>
+      <th width="160" align="center">阅读入口</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">作品 01</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">阅读原文 ↗</a></td>
+    </tr>
+    <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw">作品 02</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw">阅读原文 ↗</a></td>
+    </tr>
+    <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw">作品 03</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw">阅读原文 ↗</a></td>
+    </tr>
+    <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw">作品 04</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw">阅读原文 ↗</a></td>
+    </tr>
+    <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q">作品 05</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q">阅读原文 ↗</a></td>
+    </tr>
+    <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w">作品 06</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w">阅读原文 ↗</a></td>
+    </tr>
+  </tbody>
+</table>
 
-[查看公众号文章合集 →](https://github.com/quj7897-tech/wechat-articles)
+[查看全部公众号作品 →](https://github.com/quj7897-tech/wechat-articles)
 
 ---
 
