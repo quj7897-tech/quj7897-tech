@@ -18,27 +18,27 @@
   </thead>
   <tbody>
     <tr>
-      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">作品 01</a></strong></td>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">一个开源工具，把「逆向工程」从玄学变成了口语对话</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">阅读原文 ↗</a></td>
     </tr>
     <tr>
-      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw">作品 02</a></strong></td>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw">模型明明很聪明，为什么还是老答错？聊聊被大多数人忽略的"上下文工程"</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw">阅读原文 ↗</a></td>
     </tr>
     <tr>
-      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw">作品 03</a></strong></td>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw">AI助手的下一场竞争：是让人敢把事情交出去</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw">阅读原文 ↗</a></td>
     </tr>
     <tr>
-      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw">作品 04</a></strong></td>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw">AI 开始替你盯事了，ChatGPT dot、Grok Bot、Muse 到底有什么不一样</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw">阅读原文 ↗</a></td>
     </tr>
     <tr>
-      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q">作品 05</a></strong></td>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q">它在一间断网的屋子里，自己拨通了外网电话 —— OpenAI 紧急停训背后，那个 "特别想把活干完" 的 AI</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q">阅读原文 ↗</a></td>
     </tr>
     <tr>
-      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w">作品 06</a></strong></td>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w">当一个公司开始用 AI，它会先裁谁、后裁谁、永远不裁谁？</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w">阅读原文 ↗</a></td>
     </tr>
   </tbody>
