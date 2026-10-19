@@ -10,7 +10,7 @@
 **曲家缘 · QJY OS** — 我的项目、公众号文章与 AI 产品实践。
 
 <a href="https://quj7897-tech.github.io/">
-  <img src="https://raw.githubusercontent.com/quj7897-tech/quj7897-tech.github.io/main/portfolio-preview.png" alt="曲家缘的个人网站 QJY OS，点击访问" width="100%" />
+  <img src="https://raw.githubusercontent.com/quj7897-tech/quj7897-tech.github.io/main/terminal-preview.png" alt="曲家缘 QJY OS 终端加载页面，点击进入个人网站" width="100%" />
 </a>
 
 ### [进入我的个人网站 ↗](https://quj7897-tech.github.io/)
