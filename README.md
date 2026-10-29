@@ -30,6 +30,10 @@
   </thead>
   <tbody>
     <tr>
+      <td width="900"><strong><a href="https://mp.weixin.qq.com/s/R59dFXcDga2lD9jd2ww9Eg">谷歌 Genie 4 发布：能走进去、会出声、只活两分钟，世界模型离「可用」还有多远</a></strong></td>
+      <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/R59dFXcDga2lD9jd2ww9Eg">阅读原文 ↗</a></td>
+    </tr>
+    <tr>
       <td width="900"><strong><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">一个开源工具，把「逆向工程」从玄学变成了口语对话</a></strong></td>
       <td width="160" align="center"><a href="https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q">阅读原文 ↗</a></td>
     </tr>
