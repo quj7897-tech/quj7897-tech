@@ -69,27 +69,27 @@
 
 <p align="center">
   <strong>日常工具</strong>&nbsp;&nbsp;
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" height="24" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" height="24" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" height="24" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" height="24" />
-  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" height="24" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" height="24" align="absmiddle" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" height="24" align="absmiddle" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" height="24" align="absmiddle" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" height="24" align="absmiddle" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" height="24" align="absmiddle" />
 </p>
 
 <p align="center">
   <strong>人工智能</strong>&nbsp;&nbsp;
-  <img alt="Codex" src="https://img.shields.io/badge/Codex-111111?style=flat-square" height="24" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" height="24" />
-  <img alt="Prompt Systems" src="https://img.shields.io/badge/Prompt%20Systems-16C79A?style=flat-square" height="24" />
-  <img alt="AI Native Product" src="https://img.shields.io/badge/AI%20Native%20Product-8583FF?style=flat-square" height="24" />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-111111?style=flat-square" height="24" align="absmiddle" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" height="24" align="absmiddle" />
+  <img alt="Prompt Systems" src="https://img.shields.io/badge/Prompt%20Systems-16C79A?style=flat-square" height="24" align="absmiddle" />
+  <img alt="AI Native Product" src="https://img.shields.io/badge/AI%20Native%20Product-8583FF?style=flat-square" height="24" align="absmiddle" />
 </p>
 
 <p align="center">
   <strong>重点</strong>&nbsp;&nbsp;
-  <img alt="Product Strategy" src="https://img.shields.io/badge/Product%20Strategy-0D1117?style=flat-square" height="24" />
-  <img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-0D1117?style=flat-square" height="24" />
-  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" height="24" />
-  <img alt="Writing" src="https://img.shields.io/badge/Writing-0D1117?style=flat-square" height="24" />
+  <img alt="Product Strategy" src="https://img.shields.io/badge/Product%20Strategy-0D1117?style=flat-square" height="24" align="absmiddle" />
+  <img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-0D1117?style=flat-square" height="24" align="absmiddle" />
+  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" height="24" align="absmiddle" />
+  <img alt="Writing" src="https://img.shields.io/badge/Writing-0D1117?style=flat-square" height="24" align="absmiddle" />
 </p>
 
 ---
